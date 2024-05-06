@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Start Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="bookstore-management" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.elpidoroun.bookstoremanagement.BookstoreManagementApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
